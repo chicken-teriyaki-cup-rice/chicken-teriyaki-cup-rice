@@ -1,10 +1,9 @@
 #FOSS
 ------------------------------------------
-### Aloha![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
+### Automate All The Things!
 
 - :earth_africa: I’m based in Tampa
-- :light_rail:     I'm interested in resilience, observability, human factors
+- :light_rail:   I'm interested in resilience, observability, human factors
 - :coffee:       I'll buy you a coffee, let's chat!
 &nbsp;
 
