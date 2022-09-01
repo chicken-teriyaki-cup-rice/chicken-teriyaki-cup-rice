@@ -1,4 +1,4 @@
-#FOSS #SRE #DEVOPS
+#FOSS
 ------------------------------------------
 ### :wave: Aloha! Automate All The Things!
 
