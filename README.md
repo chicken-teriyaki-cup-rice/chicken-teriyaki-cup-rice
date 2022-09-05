@@ -6,4 +6,4 @@ I’m interested in resilience engineering, observability, human factors and eve
 
 All the projects I'm currently working on are <ins>not</ins> meant to discover what the most canonical answer is but rather to figure out what questions I don't have answers to and which assumptions I thought were correct might not be. 
 
-I'm also open to job opportunities, feel free to check my CV. 
+I'm open to new opportunities. You can reach me at [at]ndmframework on twitter. Let's figure it out together!
