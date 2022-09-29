@@ -9,4 +9,4 @@ My projects here are <ins>not</ins> meant to figure out what the canonical answe
 1. discover what questions I don't have answers to.  
 2. discover which assumptions I thought were correct, actually might not be. 
 
-Currently open to new opportunities. I'm ndmframework on the app with 140 character limit.   
+Currently open to new opportunities. I'm ndmframework on the app with the 140 character limit.   
