@@ -1,12 +1,13 @@
-#FOSS Automate All The Things!
-------------------------------------------
-### 👋 Aloha! 
+# FOSS Automate All The Things!
 
-I’m interested in resilience engineering, observability, human factors and everything in between. In my spare time, I learn new technologies and contribute to open-source projects.
+**Aloha!**
 
-My projects here are <ins>not</ins> meant to figure out what the canonical answer is, but rather to:  
+I build things that keep working when things go sideways.
 
-1. discover what questions I don't have answers to.  
-2. discover which assumptions I thought were correct, actually might not be. 
+I care about resilience engineering, observability, and human factors.  
+I treat failure as normal, so I add layers, detect drift early, recover fast, then tighten the system.  
+I don’t chase a single “root cause” - I fix the chain and write down what changed.
+
+**Influences:** Richard I. Cook - [*How Complex Systems Fail*](https://how.complexsystems.fail/).
 
 Currently open to new opportunities here => chicken-teriyaki-cup-rice<ÁȚ>proton.me 
